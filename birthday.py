@@ -7,3 +7,4 @@ year = input("Enter your birth year ")
 
 print("YOUR BIRTHDAY ISSSSSS : ", month, day, year)
 print("Happy birthday")
+print("Happy birthday")
