@@ -21,3 +21,5 @@ cy = td_arr[0]
 cm = td_arr[1]
 cd = td_arr[2]
 print(type(cy), type(cm), type(cd))
+print("Wyatt was here, ooga booga")
+print("I wanted to print jinx here but I couldn't get it to work lol")
